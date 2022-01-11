@@ -12,3 +12,7 @@ The purpose for this analysis is to calculate and compute local fare and driver 
 
 ### Results of the Analysis
 After deploying our python and pandas skills on the new assignment that V. Isualize assigned to our team we were able to calculate the following results, encapuslating them into a comprehensive DataFrame that makes it easy to see at a glance the data we used and the averages of the business that the CEO had asked for. 
+
+![image](https://user-images.githubusercontent.com/93171738/149019590-4861c52e-e861-470b-8146-5458de1085e1.png)
+
+As you can see from the image above...
