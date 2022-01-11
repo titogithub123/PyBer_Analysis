@@ -18,4 +18,4 @@ As you can see from the image above there are more rides provided and more drive
 
  #### Total Fares by City Type
 ![image](https://user-images.githubusercontent.com/93171738/149020762-196e1a28-9176-4cb3-ba54-89f031e44971.png)
-V. Isualize also wanted us to make a bar graph to get a visual representation of the Total Fares for Each Week by City Type. You can see our graph below. Furthermore, the image line graph above shows us the total weekly 
+Additionali, V. Isualize also wanted us to make a bar graph to get a visual representation of the Total Fares for Each Week by City Type. You can see our graph in the image above. As is made evident by our graph the highest number of weekly totals is in the urban section of town. This should come as no surprise as there are more people concentrated in the urban centers than in suburban or rural areas
