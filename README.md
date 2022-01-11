@@ -28,4 +28,6 @@ Having worked on our data for quite a while our team became intimatly familiar w
 
 1. Taking a look at our Average Fare per Driver in rural areas we see that the total average fare amount per driver is more than 3 times the average fare amount per driver in the urban areas. We have an average of $55.49 in the rural areas and an average of $16.57 in the urban areas. Taking this information into account we can suggest a marketing campaign to entice more drivers to focus on rural areas. While this would decreese the average amount each driver would make per trip it could potentially raise total revenue if more drivers were avaiable in this area.
 
-2. 
+2. Simialrly, it looks like the suburban areas are also prime candiates to attract more drivers as there is still room to grow in this segment. While trips in suburban areas might not take as long as trips in rural areas by increasing the number of drivers available you may be able to service more demand by having a larger supply of drivers on hand, especially during peak times.
+
+3. To make the most out of the fierce competition we find in the urban centers, I would actually suggest further investigation into the data 
