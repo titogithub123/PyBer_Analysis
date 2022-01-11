@@ -10,4 +10,5 @@ The purpose for this analysis is to calculate and compute local fare and driver 
 - Average Fare per Ride
 - Average Fare per Driver.
 
-
+### Results of the Analysis
+After deploying our python and pandas skills on the new assignment that V. Isualize assigned to our team we were able to calculate the following results, encapuslating them into a comprehensive DataFrame that makes it easy to see at a glance the data we used and the averages of the business that the CEO had asked for. 
