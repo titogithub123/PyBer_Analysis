@@ -24,3 +24,8 @@ Additionaly, V. Isualize also wanted us to make a bar graph to get a visual repr
 In this case our graph is somewhat limited in that we end the plotting of the data on April 29th, so we are not able to see the total weekly amounts for the rest of the year. However, we can make an argument from what we've already seen that it is most likely that the trajectory of the Total Fares for Each Week should continue in a similar fashion as to how they are currently represented. 
 
 ### Summary
+Having worked on our data for quite a while our team became intimatly familiar with it's contents and as such we were able to extract three business recomendations that we can make to our boss, V. Isulaize and the other stake holders. We would now like to present those recomendations.
+
+1. Taking a look at our Average Fare per Driver in rural areas we see that the total average fare amount per driver is more than 3 times the average fare amount per driver in the urban areas. We have an average of $55.49 in the rural areas and an average of $16.57 in the urban areas. Taking this information into account we can suggest a marketing campaign to entice more drivers to focus on rural areas. While this would decreese the average amount each driver would make per trip it could potentially raise total revenue if more drivers were avaiable in this area.
+
+2. 
