@@ -30,4 +30,4 @@ Having worked on our data for quite a while our team became intimatly familiar w
 
 2. Simialrly, it looks like the suburban areas are also prime candiates to attract more drivers as there is still room to grow in this segment. While trips in suburban areas might not take as long as trips in rural areas by increasing the number of drivers available you may be able to service more demand by having a larger supply of drivers on hand, especially during peak times.
 
-3. To make the most out of the fierce competition we find in the urban centers, I would actually suggest further investigation into the data 
+3. To make the most out of the fierce competition we find in the urban centers, I would actually suggest further investigation into the data so we can find the peak times of service used and the peak areas of the urban landscape where most rides originate from and once this information was in hand we can prioritize driver scheduling to be at the places riders start their journey at the times most riders are looking for rides. This way we would capitalize on the peak busy hours of the day, thereby allowing the company to maximize revenue. 
