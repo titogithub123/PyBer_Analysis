@@ -15,5 +15,6 @@ After deploying our python and pandas skills on the new assignment that V. Isual
 
 ![image](https://user-images.githubusercontent.com/93171738/149020344-d06a1129-55d8-43b0-8c13-c909e0d8e150.png)
 As you can see from the image above there are more rides provided and more drivers available in the urban landscape then the in the other two options however, the Average Fare per Ride and the Average Fare per Driver are lower than both the suburban and rural areas. In the same breath, the Average Fare per Ride is higher in both the suburban and rural settings and the Average Fare per Driver in rural areas is more than three times the Average Fare per Driver than in the urban areas.
+
 ![image](https://user-images.githubusercontent.com/93171738/149020762-196e1a28-9176-4cb3-ba54-89f031e44971.png)
 Furthermore, the image line graph above shows us the total weekly 
