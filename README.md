@@ -21,7 +21,7 @@ As you can see from the image above there are more rides provided and more drive
 
 Additionally, V. Isualize also wants us to make a bar graph to get a visual representation of the Total Fares for Each Week by City Type. You can see our graph in the image above. As is made evident by our graph the highest number of weekly totals is in the urban section of town. This should come as no surprise as there are more people concentrated in the urban centers than in suburban or rural areas
 
-In this case our graph is somewhat limited in that we end the plotting of the data on April 29th, so we are not able to see the total weekly amounts for the rest of the year. However, we can make an argument from what we've already seen that it is most likely that the trajectory of the Total Fares for Each Week should continue in a similar fashion as to how they are currently represented. 
+In this case our graph is somewhat limited in that we end the plotting of the data on April 29th, so we are not able to see the total weekly amounts for the rest of the year. However, we can make an argument from what we've already seen that it is most likely the trajectory of the Total Fares for Each Week should continue in a similar fashion as to how they are currently represented. 
 
 ### Summary
 Having worked on our data for quite a while our team became intimately  familiar with it's contents and as such we were able to extract three business recommendations  that we can make to our boss, V. Isulaize and the other stake holders. We would now like to present those recommendations.
